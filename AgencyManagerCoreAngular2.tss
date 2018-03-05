@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfArrayOfArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ArrayOfArrayOfString>
+    <ArrayOfString>
+      <string>AgencyManagerCoreAngular2</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerCoreAngular2\AgencyManagerCoreAngular2\appsettings.json</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerCoreAngular2\AgencyManagerCoreAngular2\index.html</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerCoreAngular2\AgencyManagerCoreAngular2\Properties\launchSettings.json</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerCoreAngular2\AgencyManagerCoreAngular2\Startup.cs</string>
+    </ArrayOfString>
+    <ArrayOfString>
+      <string>C:\Users\Phil\Documents\Visual Studio 2017\Projects\AgencyManagerCoreAngular2\AgencyManagerCoreAngular2\Controllers\ValuesController.cs</string>
+    </ArrayOfString>
+  </ArrayOfArrayOfString>
+</ArrayOfArrayOfArrayOfString>
